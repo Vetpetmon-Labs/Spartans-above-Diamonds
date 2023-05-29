@@ -1,0 +1,32 @@
+#Items
+item.spartansabovediamonds:ingot_custom.name=%s Ingot
+item.spartansabovediamonds:dagger_custom.name=%s Dagger
+item.spartansabovediamonds:parrying_dagger_custom.name=%s Parrying Dagger
+item.spartansabovediamonds:longsword_custom.name=%s Longsword
+item.spartansabovediamonds:katana_custom.name=%s Katana
+item.spartansabovediamonds:saber_custom.name=%s Saber
+item.spartansabovediamonds:rapier_custom.name=%s Rapier
+item.spartansabovediamonds:greatsword_custom.name=%s Greatsword
+item.spartansabovediamonds:hammer_custom.name=%s Hammer
+item.spartansabovediamonds:warhammer_custom.name=%s Warhammer
+item.spartansabovediamonds:spear_custom.name=%s Spear
+item.spartansabovediamonds:halberd_custom.name=%s Halberd
+item.spartansabovediamonds:pike_custom.name=%s Pike
+item.spartansabovediamonds:lance_custom.name=%s Lance
+item.spartansabovediamonds:longbow_custom.name=%s-Strengthened Longbow
+item.spartansabovediamonds:crossbow_custom.name=%s-Strengthened Crossbow
+item.spartansabovediamonds:throwing_knife_custom.name=%s Throwing Knife
+item.spartansabovediamonds:throwing_axe_custom.name=%s Throwing Axe
+item.spartansabovediamonds:javelin_custom.name=%s Javelin
+item.spartansabovediamonds:staff_custom.name=%s Quarterstaff
+item.spartansabovediamonds:glaive_custom.name=%s Glaive
+
+item.spartanweaponry:longbow_amethyst.name=Amethyst-Strengthened Longbow
+item.spartanweaponry:longbow_black_opal.name=Black Opal-Strengthened Longbow
+item.spartanweaponry:crossbow_amethyst.name=Amethyst-Strengthened Crossbow
+item.spartanweaponry:crossbow_black_opal.name=Black Opal-Strengthened Crossbow
+
+#Materials
+material.spartansabovediamonds:amethyst=Amethyst
+material.spartansabovediamonds:black_opal=Black Opal
+
