@@ -1,0 +1,5 @@
+{"pattern": ["iww", "w  ", "w  "],
+  "type": "minecraft:crafting_shaped",
+  "result": {"item": "spartansabovediamonds:boomerang_black_opal"},
+  "key": {"i": {"ore": "gemBlackOpal", "type": "forge:ore_dict"}, "w": {"ore": "plankWood", "type": "forge:ore_dict"}}
+}

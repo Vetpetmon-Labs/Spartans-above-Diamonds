@@ -1,0 +1,6 @@
+{
+  "pattern": ["iii", "isi", " h "],
+  "type": "minecraft:crafting_shaped",
+  "result": {"item": "spartansabovediamonds:battle_axe_black_opal"},
+  "key": {"i": {"ore": "gemBlackOpal", "type": "forge:ore_dict"}, "s":{"ore": "stickWood", "type": "forge:ore_dict"}, "h": {"item": "spartanweaponry:material", "data": 0}}
+}

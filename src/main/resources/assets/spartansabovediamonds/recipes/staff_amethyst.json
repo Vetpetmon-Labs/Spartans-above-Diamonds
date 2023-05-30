@@ -1,0 +1,1 @@
+{"type": "minecraft:crafting_shaped", "pattern": [" p ", " i ", "   "], "key": {"i": {"type": "forge:ore_dict", "ore": "gemAmethyst"}, "p": {"item": "spartanweaponry:material", "data": 1}}, "result": {"item": "spartansabovediamonds:staff_amethyst"}}

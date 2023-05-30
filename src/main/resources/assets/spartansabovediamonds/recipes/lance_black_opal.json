@@ -1,0 +1,1 @@
+{"type": "minecraft:crafting_shaped", "pattern": ["i", "p", "h"], "key": {"i": {"type": "forge:ore_dict", "ore": "gemBlackOpal"}, "p": {"item": "spartanweaponry:material", "data": 1}, "h": {"item": "spartanweaponry:material", "data": 0}}, "result": {"item": "spartansabovediamonds:lance_black_opal"}}

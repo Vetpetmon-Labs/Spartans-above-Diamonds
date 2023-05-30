@@ -5,7 +5,7 @@ import oresAboveDiamonds.config.OADConfig;
 
 public class Constants {
     public static final String modID = "spartansabovediamonds",
-            version = "1.0",
+            version = "2.0",
             modName = "Spartans above Diamonds",
             modDeps = "required-after:spartanweaponry@[beta-1.3.0,);after:oresabovediamonds",
             mcVer = "1.12.2",

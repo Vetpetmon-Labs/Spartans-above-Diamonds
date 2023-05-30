@@ -1,0 +1,6 @@
+{
+  "pattern": ["iii", "isi", " h "],
+  "type": "minecraft:crafting_shaped",
+  "result": {"item": "spartansabovediamonds:battle_axe_amethyst"},
+  "key": {"i": {"ore": "gemAmethyst", "type": "forge:ore_dict"}, "s":{"ore": "stickWood", "type": "forge:ore_dict"}, "h": {"item": "spartanweaponry:material", "data": 0}}
+}
