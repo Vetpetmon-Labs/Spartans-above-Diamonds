@@ -1,0 +1,32 @@
+#Items
+item.spartansabovediamonds:ingot_custom.name=Слиток %s
+item.spartansabovediamonds:dagger_custom.name=%s Кинжал
+item.spartansabovediamonds:parrying_dagger_custom.name=%s Парирующий Кинжал
+item.spartansabovediamonds:longsword_custom.name=%s Длинный Меч
+item.spartansabovediamonds:katana_custom.name=%s Катана
+item.spartansabovediamonds:saber_custom.name=%s Сабля
+item.spartansabovediamonds:rapier_custom.name=%s Рапира
+item.spartansabovediamonds:greatsword_custom.name=%s Большой меч
+item.spartansabovediamonds:hammer_custom.name=%s Молот
+item.spartansabovediamonds:warhammer_custom.name=%s Боевой Молот
+item.spartansabovediamonds:spear_custom.name=%s Копье
+item.spartansabovediamonds:halberd_custom.name=%s Алебарда
+item.spartansabovediamonds:pike_custom.name=%s Пика
+item.spartansabovediamonds:lance_custom.name=%s Кавалерийское Копье
+item.spartansabovediamonds:longbow_custom.name=Длинный Лук Усиленный %s
+item.spartansabovediamonds:crossbow_custom.name=Арбалет Усиленный %s
+item.spartansabovediamonds:throwing_knife_custom.name=%s Метательный Нож
+item.spartansabovediamonds:throwing_axe_custom.name=%sМетательный Топор
+item.spartansabovediamonds:javelin_custom.name=%s Метательное Копье
+item.spartansabovediamonds:staff_custom.name=%s Боевой  посох
+item.spartansabovediamonds:glaive_custom.name=%s Палаш
+
+item.spartanweaponry:longbow_amethyst.name=Длинный Лук Усиленный Аметистом
+item.spartanweaponry:longbow_black_opal.name=Длинный Лук Усиленный Чёрным Опалом
+item.spartanweaponry:crossbow_amethyst.name=Арбалет Усиленный Аметистом
+item.spartanweaponry:crossbow_black_opal.name=Арбалет Усиленный Чёрным Опалом
+
+#Materials
+material.spartansabovediamonds:amethyst=Аметист
+material.spartansabovediamonds:black_opal=Чёрный Опал
+
