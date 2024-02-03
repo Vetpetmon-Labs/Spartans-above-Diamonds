@@ -1,5 +1,5 @@
 {
-    "parent":"spartanweaponry:item/parrying_dagger_custom",
+    "parent":"spartansabovediamonds:item/parrying_dagger_custom",
     "display": {
         "thirdperson_righthand": {
             "rotation": [ 0, -90, 55 ],

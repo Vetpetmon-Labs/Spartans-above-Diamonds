@@ -126,9 +126,8 @@ public class SADRegistries {
                 ModelRenderRegistry.addItemToRegistry(mace, new ResourceLocation(Constants.modID, "mace_custom"), mat);
                 item_set.add(mace);
             }
-            if (ConfigHandler.enableExperimentalWeapons && !ConfigHandler.disableParryingDagger){
-                ItemParryingDagger parrying_dagger = new ItemParryingDagger(
-                        "parrying_dagger_" + mat.getUnlocName(), mat);
+            if (!ConfigHandler.disableParryingDagger){
+                ItemParryingDagger parrying_dagger = new ItemParryingDagger("parrying_dagger_" + mat.getUnlocName(), mat);
                 ModelRenderRegistry.addItemToRegistry(parrying_dagger, new ResourceLocation(Constants.modID, "parrying_dagger_custom"), mat);
                 item_set.add(parrying_dagger);
             }

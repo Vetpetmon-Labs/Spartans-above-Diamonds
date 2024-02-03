@@ -5,7 +5,7 @@ import oresAboveDiamonds.config.OADConfig;
 
 public class Constants {
     public static final String modID = "spartansabovediamonds",
-            version = "2.3",
+            version = "2.6",
             modName = "Spartans above Diamonds",
             modDeps = "required-after:spartanweaponry@[beta-1.3.0,);after:oresabovediamonds",
             mcVer = "1.12.2",
@@ -14,7 +14,7 @@ public class Constants {
 
     public static ToolMaterialEx amethyst, black_opal;
     public static final ToolMaterialEx[] materialsOAD = {
-            amethyst = new ToolMaterialEx("amethyst","gemAmethyst", Constants.modID, 8323208, 16759258, 4, OADConfig.aq_amethyst_durability, (float) OADConfig.ap_amethyst_efficiency, (float) OADConfig.ao_amethyst_attack_damage, 8),
-            black_opal = new ToolMaterialEx("black_opal","gemBlackOpal", Constants.modID, 1245201, 2621520, 5, OADConfig.at_black_opal_durability, (float) OADConfig.as_black_opal_efficiency, (float) OADConfig.ar_black_opal_attack_damage, 12)
+            amethyst = new ToolMaterialEx("amethyst","gemAmethyst", Constants.modID, 11880928, 16759258, 4, OADConfig.aq_amethyst_durability, (float) OADConfig.ap_amethyst_efficiency, (float) OADConfig.ao_amethyst_attack_damage, 8),
+            black_opal = new ToolMaterialEx("black_opal","gemBlackOpal", Constants.modID, 786513, 4796279, 5, OADConfig.at_black_opal_durability, (float) OADConfig.as_black_opal_efficiency, (float) OADConfig.ar_black_opal_attack_damage, 12)
     };
 }

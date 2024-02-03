@@ -7,7 +7,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath 'net.minecraftforge.gradle:ForgeGradle:5.1+'
+        classpath 'net.minecraftforge.gradle:ForgeGradle:6+'
         classpath 'org.spongepowered:mixingradle:0.7-SNAPSHOT'
         classpath 'com.modrinth.minotaur:Minotaur:2.7.0'
     }
